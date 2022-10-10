@@ -1,0 +1,26 @@
+.title {
+    /* color: blue; */
+    text-align: center
+}
+
+body {
+    background-color: #DBF9FC;
+    }
+
+#AboutMe{
+    border: 5px outset greenyellow;
+    background-color: lightblue; 
+    color: darkblue; 
+    margin: 10px;
+}
+
+a:hover{
+    color: purple
+}
+
+.myDiv {
+    border: 5px outset greenyellow;
+    background-color: lightblue; 
+    color: darkblue; 
+    margin: 10px;
+  }
